@@ -1,0 +1,1349 @@
+{
+  "warnings": [
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBAgeLimitStatus.h",
+      "line": 11,
+      "symbol": "MDVAgeLimitStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBAgeLimitStatus.h",
+      "line": 11,
+      "symbol": "MDVAgeLimitStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBAgeResult.h",
+      "line": 13,
+      "symbol": "MDVAgeResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBarcodeElements.h",
+      "line": 18,
+      "symbol": "MDVBarcodeElements",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBarcodeResult.h",
+      "line": 18,
+      "symbol": "MDVBarcodeResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBarcodeType.h",
+      "line": 12,
+      "symbol": "MDVBarcodeType.MDVBarcodeNone",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBlinkIdCombinedRecognizer.h",
+      "line": 38,
+      "symbol": "MDVBlinkIdCombinedRecognizer.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBlinkIdCombinedRecognizer.h",
+      "line": 151,
+      "symbol": "MDVBlinkIdCombinedRecognizerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBlinkIdCombinedRecognizerResult.h",
+      "line": 41,
+      "symbol": "MDVBlinkIdCombinedRecognizerResult.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBBlinkIdOverlayTheme.h",
+      "line": 14,
+      "symbol": "MDVBlinkIdOverlayTheme",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfo.h",
+      "line": 15,
+      "symbol": "MDVClassInfo",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfoTypes.h",
+      "line": 11,
+      "symbol": "MDVCountry",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfoTypes.h",
+      "line": 11,
+      "symbol": "MDVCountry",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfoTypes.h",
+      "line": 269,
+      "symbol": "MDVRegion",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfoTypes.h",
+      "line": 269,
+      "symbol": "MDVRegion",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfoTypes.h",
+      "line": 386,
+      "symbol": "MDVType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBClassInfoTypes.h",
+      "line": 386,
+      "symbol": "MDVType",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCombinedFullDocumentImageResult.h",
+      "line": 13,
+      "symbol": "MDVCombinedFullDocumentImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCombinedRecognizer.h",
+      "line": 14,
+      "symbol": "MDVCombinedRecognizer",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCombinedRecognizerResult.h",
+      "line": 23,
+      "symbol": "MDVCombinedRecognizerResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCustomOverlayViewController.h",
+      "line": 28,
+      "symbol": "MDVCustomOverlayViewController.recognizerCollection",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCustomOverlayViewController.h",
+      "line": 29,
+      "symbol": "MDVCustomOverlayViewController.cameraSettings",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCustomOverlayViewController.h",
+      "line": 30,
+      "symbol": "MDVCustomOverlayViewController.metadataDelegates",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCustomOverlayViewController.h",
+      "line": 31,
+      "symbol": "MDVCustomOverlayViewController.scanningRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCustomOverlayViewController.h",
+      "line": 32,
+      "symbol": "MDVCustomOverlayViewController.recognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBCustomOverlayViewController.h",
+      "line": 41,
+      "symbol": "MDVCustomOverlayViewController.-initWithRecognizerCollection:cameraSettings:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDateResult.h",
+      "line": 23,
+      "symbol": "MDVDateResult.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDigitalSignature.h",
+      "line": 11,
+      "symbol": "MDVDigitalSignature",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDigitalSignatureResult.h",
+      "line": 13,
+      "symbol": "MDVDigitalSignatureResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentExpirationCheckResult.h",
+      "line": 11,
+      "symbol": "MDVDocumentExpirationCheckResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentImageColorStatus.h",
+      "line": 17,
+      "symbol": "MDVDocumentImageColorStatus.MDVDocumentImageColorStatusNotAvailable",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentImageColorStatus.h",
+      "line": 20,
+      "symbol": "MDVDocumentImageColorStatus.MDVDocumentImageColorStatusBlackAndWhite",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentImageColorStatus.h",
+      "line": 23,
+      "symbol": "MDVDocumentImageColorStatus.MDVDocumentImageColorStatusColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentLivenessAnalysisResult.h",
+      "line": 14,
+      "symbol": "MDVDocumentLivenessAnalysisResultProcessingStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentLivenessAnalysisResult.h",
+      "line": 14,
+      "symbol": "MDVDocumentLivenessAnalysisResultProcessingStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentLivenessAnalysisResult.h",
+      "line": 26,
+      "symbol": "MDVDocumentLivenessAnalysisResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentVerificationOverlayViewController.h",
+      "line": 20,
+      "symbol": "MDVDocumentVerificationOverlayViewController",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentVerificationRecognizer.h",
+      "line": 23,
+      "symbol": "MDVDocumentVerificationRecognizer",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentVerificationRecognizer.h",
+      "line": 73,
+      "symbol": "MDVDocumentVerificationRecognizerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentVerificationRecognizerResult.h",
+      "line": 18,
+      "symbol": "MDVTiltStep",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentVerificationRecognizerResult.h",
+      "line": 18,
+      "symbol": "MDVTiltStep",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDocumentVerificationRecognizerResult.h",
+      "line": 29,
+      "symbol": "MDVDocumentVerificationRecognizerResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDotsSubview.h",
+      "line": 23,
+      "symbol": "MDVDotsSubview.dotsLayer",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDotsSubview.h",
+      "line": 42,
+      "symbol": "MDVDotsSubview.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDotsSubview.h",
+      "line": 44,
+      "symbol": "MDVDotsSubview.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBDriverLicenseDetailedInfo.h",
+      "line": 14,
+      "symbol": "MDVDriverLicenseDetailedInfo",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodeFaceImage.h",
+      "line": 11,
+      "symbol": "MDVEncodeFaceImage",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodeFullDocumentImage.h",
+      "line": 11,
+      "symbol": "MDVEncodeFullDocumentImage",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodeSignatureImage.h",
+      "line": 11,
+      "symbol": "MDVEncodeSignatureImage",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodedCombinedFullDocumentImageResult.h",
+      "line": 11,
+      "symbol": "MDVEncodedCombinedFullDocumentImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodedFaceImageResult.h",
+      "line": 11,
+      "symbol": "MDVEncodedFaceImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodedFullDocumentImageResult.h",
+      "line": 11,
+      "symbol": "MDVEncodedFullDocumentImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBEncodedSignatureImageResult.h",
+      "line": 11,
+      "symbol": "MDVEncodedSignatureImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBErrorReticle.h",
+      "line": 19,
+      "symbol": "MDVErrorReticle.errorColor",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 11,
+      "symbol": "MDVExceptionName",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 13,
+      "symbol": "MDVIllegalModificationException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 14,
+      "symbol": "MDVInvalidLicenseKeyException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 15,
+      "symbol": "MDVInvalidLicenseeKeyException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 16,
+      "symbol": "MDVInvalidLicenseResourceException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 17,
+      "symbol": "MDVInvalidBundleException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 18,
+      "symbol": "MDVMissingSettingsException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBException.h",
+      "line": 19,
+      "symbol": "MDVInvalidArgumentException",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFaceImage.h",
+      "line": 11,
+      "symbol": "MDVFaceImage",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFaceImageDpi.h",
+      "line": 11,
+      "symbol": "MDVFaceImageDpi",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFaceImageResult.h",
+      "line": 13,
+      "symbol": "MDVFaceImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFirstSideFinishedRecognizerRunnerDelegate.h",
+      "line": 13,
+      "symbol": "MDVFirstSideFinishedRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFirstSideFinishedRecognizerRunnerViewControllerDelegate.h",
+      "line": 15,
+      "symbol": "MDVFirstSideFinishedRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFrameGrabberRecognizer.h",
+      "line": 24,
+      "symbol": "MDVFrameGrabberRecognizer.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFrameGrabberRecognizer.h",
+      "line": 25,
+      "symbol": "MDVFrameGrabberRecognizer.-initWithFrameGrabberDelegate:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFrameGrabberRecognizer.h",
+      "line": 43,
+      "symbol": "MDVFrameGrabberRecognizerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFullDocumentImage.h",
+      "line": 11,
+      "symbol": "MDVFullDocumentImage",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFullDocumentImageDpi.h",
+      "line": 8,
+      "symbol": "MDVFullDocumentImageDpi",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFullDocumentImageExtensionFactors.h",
+      "line": 10,
+      "symbol": "MDVFullDocumentImageExtensionFactors",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBFullDocumentImageResult.h",
+      "line": 13,
+      "symbol": "MDVFullDocumentImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 27,
+      "symbol": "CGDelta",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 30,
+      "symbol": "",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 30,
+      "symbol": "CGLine",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 38,
+      "symbol": "CGDeltaMake",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 41,
+      "symbol": "CGPointWithDelta",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 44,
+      "symbol": "CGPointDistance",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 47,
+      "symbol": "CGPointAlongLine",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 50,
+      "symbol": "CGPointRotatedAroundPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 55,
+      "symbol": "CGLineMake",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 58,
+      "symbol": "CGLineEqualToLine",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 61,
+      "symbol": "CGLineMidPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 64,
+      "symbol": "CGLineDirection",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 67,
+      "symbol": "CGLinesAngle",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 70,
+      "symbol": "CGLinesIntersectAtPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 73,
+      "symbol": "CGLineLength",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 76,
+      "symbol": "CGLineScale",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 79,
+      "symbol": "CGLineTranslate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 82,
+      "symbol": "CGLineScaleOnMidPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 85,
+      "symbol": "CGLineDelta",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 88,
+      "symbol": "CGLinesAreParallel",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 93,
+      "symbol": "CGRectTopLeftPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 94,
+      "symbol": "CGRectTopRightPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 95,
+      "symbol": "CGRectBottomLeftPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 96,
+      "symbol": "CGRectBottomRightPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 99,
+      "symbol": "CGRectResize",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 102,
+      "symbol": "CGRectInsetEdge",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 113,
+      "symbol": "CGRectCenterPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 116,
+      "symbol": "CGRectClosestTwoCornerPoints",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 120,
+      "symbol": "CGLineIntersectsRectAtPoint",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 129,
+      "symbol": "CGControlPointsForArcBetweenPointsWithRadius",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGeometry.h",
+      "line": 135,
+      "symbol": "MDVscanningRegionForFrameInBounds",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareRecognizerRunnerDelegate.h",
+      "line": 13,
+      "symbol": "MDVGlareRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareRecognizerRunnerViewControllerDelegate.h",
+      "line": 15,
+      "symbol": "MDVGlareRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareStatusSubview.h",
+      "line": 20,
+      "symbol": "MDVGlareStatusSubview.label",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareStatusSubview.h",
+      "line": 22,
+      "symbol": "MDVGlareStatusSubview.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareStatusSubview.h",
+      "line": 24,
+      "symbol": "MDVGlareStatusSubview.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareStatusSubview.h",
+      "line": 26,
+      "symbol": "MDVGlareStatusSubview.-initWithFrame:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBGlareStatusSubview.h",
+      "line": 28,
+      "symbol": "MDVGlareStatusSubview.-glareDetectionFinishedWithResult:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageAnalysisDetectionStatus.h",
+      "line": 17,
+      "symbol": "MDVImageAnalysisDetectionStatus.MDVImageAnalysisDetectionStatusNotAvailable",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageAnalysisDetectionStatus.h",
+      "line": 20,
+      "symbol": "MDVImageAnalysisDetectionStatus.MDVImageAnalysisDetectionStatusNotDetected",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageAnalysisDetectionStatus.h",
+      "line": 23,
+      "symbol": "MDVImageAnalysisDetectionStatus.MDVImageAnalysisDetectionStatusDetected",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageAnalysisResult.h",
+      "line": 16,
+      "symbol": "MDVImageAnalysisResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 16,
+      "symbol": "MDVImageExtensionFactors.MDVImageExtensionFactors.top",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 16,
+      "symbol": "MDVImageExtensionFactors.top",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 17,
+      "symbol": "MDVImageExtensionFactors.MDVImageExtensionFactors.right",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 17,
+      "symbol": "MDVImageExtensionFactors.right",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 18,
+      "symbol": "MDVImageExtensionFactors.MDVImageExtensionFactors.bottom",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 18,
+      "symbol": "MDVImageExtensionFactors.bottom",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 19,
+      "symbol": "MDVImageExtensionFactors.MDVImageExtensionFactors.left",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageExtensionFactors.h",
+      "line": 19,
+      "symbol": "MDVImageExtensionFactors.left",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.field",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBImageProcessingRecognizerRunnerDelegate.h",
+      "line": 11,
+      "symbol": "MDVImageProcessingRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLicenseError.h",
+      "line": 13,
+      "symbol": "MDVLicenseErrorNotification",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLicenseError.h",
+      "line": 15,
+      "symbol": "MDVLicenseError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLicenseError.h",
+      "line": 15,
+      "symbol": "MDVLicenseError",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLicenseError.h",
+      "line": 27,
+      "symbol": "MDVLicenseErrorBlock",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLogger.h",
+      "line": 13,
+      "symbol": "MDVLogLevel",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLogger.h",
+      "line": 13,
+      "symbol": "MDVLogLevel",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLogger.h",
+      "line": 21,
+      "symbol": "MDVLoggerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBLogger.h",
+      "line": 30,
+      "symbol": "MDVLogger",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMicroblinkApp.h",
+      "line": 37,
+      "symbol": "MDVMicroblinkApp",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMicroblinkApp.h",
+      "line": 87,
+      "symbol": "MDV_LOCALIZED_DEFAULT_STRING",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMicroblinkApp.h",
+      "line": 91,
+      "symbol": "MDV_LOCALIZED_FOR_LANGUAGE",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMicroblinkApp.h",
+      "line": 109,
+      "symbol": "MDV_LOCALIZED",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.function",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMicroblinkDefines.h",
+      "line": 34,
+      "symbol": "MBBlock",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMicroblinkSDK.h",
+      "line": 21,
+      "symbol": "MDVMicroblinkSDK.+sharedInstance",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMrzResult.h",
+      "line": 21,
+      "symbol": "MDVMrtdDocumentType.MDVMrtdTypeUnknown",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enumcase",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBMrzResult.h",
+      "line": 50,
+      "symbol": "MDVMrzResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBNativeResult.h",
+      "line": 14,
+      "symbol": "MDVNativeResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBOcrLayout.h",
+      "line": 74,
+      "symbol": "MDVOcrLayout.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBOcrLayout.h",
+      "line": 192,
+      "symbol": "MDVCharWithVariants",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBOcrLayout.h",
+      "line": 260,
+      "symbol": "MDVOcrChar.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBOcrLayout.h",
+      "line": 302,
+      "symbol": "MDVPosition.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBOverlayViewController.h",
+      "line": 33,
+      "symbol": "MDVOverlayViewController.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBProductIntegrationInfo.h",
+      "line": 17,
+      "symbol": "MDVProductIntegrationInfo",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognitionModeFilter.h",
+      "line": 20,
+      "symbol": "MDVRecognitionModeFilter.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizer.h",
+      "line": 27,
+      "symbol": "MDVRecognizer.-getOptimalHudOrientation",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizer.h",
+      "line": 29,
+      "symbol": "MDVRecognizer.-toJson",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerCollection.h",
+      "line": 51,
+      "symbol": "MDVRecognizerCollection.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerCollection.h",
+      "line": 53,
+      "symbol": "MDVRecognizerCollection.-initWithRecognizers:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerResult.h",
+      "line": 46,
+      "symbol": "MDVRecognizerResult.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerResult.h",
+      "line": 48,
+      "symbol": "MDVRecognizerResult.resultState",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerResult.h",
+      "line": 49,
+      "symbol": "MDVRecognizerResult.resultStateString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 29,
+      "symbol": "MDVRecognizerRunner.metadataDelegates",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 30,
+      "symbol": "MDVRecognizerRunner.scanningRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 31,
+      "symbol": "MDVRecognizerRunner.imageProcessingRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 32,
+      "symbol": "MDVRecognizerRunner.stringProcessingRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 34,
+      "symbol": "MDVRecognizerRunner.coordinator",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 36,
+      "symbol": "MDVRecognizerRunner.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 41,
+      "symbol": "MDVRecognizerRunner.-resetState",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunner.h",
+      "line": 43,
+      "symbol": "MDVRecognizerRunner.-resetState:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerMetadataDelegates.h",
+      "line": 22,
+      "symbol": "MDVRecognizerRunnerMetadataDelegates.debugRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerMetadataDelegates.h",
+      "line": 23,
+      "symbol": "MDVRecognizerRunnerMetadataDelegates.detectionRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerMetadataDelegates.h",
+      "line": 24,
+      "symbol": "MDVRecognizerRunnerMetadataDelegates.ocrRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerMetadataDelegates.h",
+      "line": 25,
+      "symbol": "MDVRecognizerRunnerMetadataDelegates.glareRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerMetadataDelegates.h",
+      "line": 26,
+      "symbol": "MDVRecognizerRunnerMetadataDelegates.firstSideFinishedRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerViewControllerMetadataDelegates.h",
+      "line": 22,
+      "symbol": "MDVRecognizerRunnerViewControllerMetadataDelegates.debugRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerViewControllerMetadataDelegates.h",
+      "line": 23,
+      "symbol": "MDVRecognizerRunnerViewControllerMetadataDelegates.detectionRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerViewControllerMetadataDelegates.h",
+      "line": 24,
+      "symbol": "MDVRecognizerRunnerViewControllerMetadataDelegates.ocrRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerViewControllerMetadataDelegates.h",
+      "line": 25,
+      "symbol": "MDVRecognizerRunnerViewControllerMetadataDelegates.glareRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBRecognizerRunnerViewControllerMetadataDelegates.h",
+      "line": 26,
+      "symbol": "MDVRecognizerRunnerViewControllerMetadataDelegates.firstSideFinishedRecognizerRunnerViewControllerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSegmentResult.h",
+      "line": 18,
+      "symbol": "MDVSegmentResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSignatureImage.h",
+      "line": 11,
+      "symbol": "MDVSignatureImage",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSignatureImageDpi.h",
+      "line": 11,
+      "symbol": "MDVSignatureImageDpi",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSignatureImageResult.h",
+      "line": 13,
+      "symbol": "MDVSignatureImageResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBStaticSecurityFeatureAnalysisResult.h",
+      "line": 16,
+      "symbol": "MDVStaticSecurityFeatureAnalysisResultProcessingStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBStaticSecurityFeatureAnalysisResult.h",
+      "line": 16,
+      "symbol": "MDVStaticSecurityFeatureAnalysisResultProcessingStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBStaticSecurityFeatureAnalysisResult.h",
+      "line": 30,
+      "symbol": "MDVStaticSecurityFeatureAnalysisResult",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBStringProcessingRecognizerRunnerDelegate.h",
+      "line": 10,
+      "symbol": "MDVStringProcessingRecognizerRunnerDelegate",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSuccessFrameGrabberRecognizer.h",
+      "line": 21,
+      "symbol": "MDVSuccessFrameGrabberRecognizer.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSuccessFrameGrabberRecognizer.h",
+      "line": 22,
+      "symbol": "MDVSuccessFrameGrabberRecognizer.-initWithRecognizer:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBSuccessFrameGrabberRecognizerResult.h",
+      "line": 23,
+      "symbol": "MDVSuccessFrameGrabberRecognizerResult.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBTapToFocusSubview.h",
+      "line": 25,
+      "symbol": "MDVTapToFocusSubview.-initWithCoder:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBTapToFocusSubview.h",
+      "line": 27,
+      "symbol": "MDVTapToFocusSubview.-willFocusAtPoint:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBVerificationStatus.h",
+      "line": 14,
+      "symbol": "MDVVerificationStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBVerificationStatus.h",
+      "line": 14,
+      "symbol": "MDVVerificationStatus",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBVerificationStep.h",
+      "line": 14,
+      "symbol": "MDVVerificationStep",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBVerificationStep.h",
+      "line": 14,
+      "symbol": "MDVVerificationStep",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.typedef",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification/document-verification-ios/DocumentVerification.xcframework/ios-arm64_x86_64-simulator/DocumentVerification.framework/Headers/MBVizResult.h",
+      "line": 21,
+      "symbol": "MDVVizResult.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/opt/jenkins-macpro/E0/core-ios/SDKs/DocumentVerification"
+}
